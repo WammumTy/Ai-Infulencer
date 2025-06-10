@@ -1,5 +1,7 @@
-praw
-transformers
-torch
-flask
-python-dotenv
+praw==7.7.1
+transformers==4.33.2
+torch==2.0.1
+flask==2.3.2
+python-dotenv==1.0.0
+apscheduler==3.10.4
+diffusers==0.20.2
